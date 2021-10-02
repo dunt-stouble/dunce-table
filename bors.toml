@@ -1,1 +1,2 @@
 status = ["ci"]  # this should be enough, right?
+# because if it's not, that'd be annoying
